@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# 🎬 usePopcorn – React Movie Search & Watchlist Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive movie discovery and watchlist application built with **React** and powered by the **OMDb API**.
 
-## Available Scripts
+The application allows users to search movies in real-time, explore detailed movie information, rate films, and maintain a personalized watched list with built-in analytics.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://your-live-demo-link.com
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ✨ Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🔎 Real-time movie search using OMDb API
+- 🎥 Dynamic movie details page
+- ⭐ Custom 10-star user rating system
+- 📊 Watched list with runtime & rating analytics
+- ⚡ Asynchronous API fetching with loading states
+- ❗ Error handling for failed API requests
+- 🧠 State management using React Hooks
+- 🎯 Conditional rendering for dynamic UI updates
+- ⌨️ Keyboard event handling (Escape to close details view)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📸 Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 1️⃣ Search Interface  
+Displays live movie search results fetched from the OMDb API.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Search Interface](./screenshots/01-home.png)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 2️⃣ Movie Details View  
+Shows movie metadata including IMDb rating, cast, and custom user rating.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Movie Details](./screenshots/02-details.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 3️⃣ Watched List & Analytics  
+Displays user-rated movies along with calculated average IMDb rating, user rating, and runtime.
 
-## Learn More
+![Watched List](./screenshots/03-watched.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🛠️ Tech Stack
 
-### Code Splitting
+- React (Functional Components + Hooks)
+- JavaScript (ES6+)
+- OMDb REST API
+- CSS
+- Fetch API
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🧠 Technical Concepts Demonstrated
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- useState for UI state management
+- useEffect for side effects & API calls
+- Controlled components
+- Derived state calculations
+- Conditional rendering
+- Component composition
+- Cleanup functions
+- Error & loading state handling
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 💼 Resume-Ready Description
 
-### Advanced Configuration
+Developed a React-based movie discovery platform integrating a third-party REST API. Implemented dynamic state management, side-effect handling, conditional rendering, and user-driven analytics using a clean and scalable component architecture.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
