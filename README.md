@@ -26,15 +26,14 @@ https://khushboo992.github.io/usepopcorn/
 ## 🖼 Screenshots
 
 ### 🔎 Movie Search View
-![Search Screenshot](./screenshots/search.png)
+(./ss1 (2).png)
 
 ### 🎬 Movie Details View
-![Details Screenshot](./screenshots/details.png)
+(./ss2 (2).png)
 
 ### ⭐ Watched List & Ratings
-![Watched Screenshot](./screenshots/watched.png)
+(./ss3 (3).png)
 
-> 📌 Create a folder named `screenshots` in your project root and add your images there with the same file names.
 
 ---
 
@@ -60,6 +59,3 @@ This project demonstrates:
 - Clean component-based architecture
 - Dynamic document title updates
 - Production deployment on GitHub Pages
-
-Khushboo  
-GitHub: https://github.com/khushboo992
