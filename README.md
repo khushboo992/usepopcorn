@@ -26,7 +26,7 @@ https://khushboo992.github.io/usepopcorn/
 ## 🖼 Screenshots
 
 ### 🔎 Movie Search View
-https://github.com/khushboo992/usepopcorn/blob/main/ss1%20(2).png?raw=true
+./ss1.png
 
 
 ### 🎬 Movie Details View
