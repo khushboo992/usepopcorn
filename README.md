@@ -26,15 +26,13 @@ https://khushboo992.github.io/usepopcorn/
 ## 🖼 Screenshots
 
 ### 🔎 Movie Search View
-![App Screenshot](./ss1.png)
-
-
+![Movie Search](./ss1.png)
 
 ### 🎬 Movie Details View
-(ss2 (2).png)
+![Movie Details](./ss2.png)
 
 ### ⭐ Watched List & Ratings
-(ss3 (3).png)
+![Watched List](./ss3.png)
 
 
 ---
